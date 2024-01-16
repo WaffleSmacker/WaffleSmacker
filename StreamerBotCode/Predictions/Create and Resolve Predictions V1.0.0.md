@@ -26,9 +26,12 @@ U0JBRR+LCAAAAAAABADtXGtv20iy/X6B/Q8cf9m7uNNGd5NNsgdYLCwnluUkTmz5qfFg0C9KjChSS1KW
 
 Click OK to import the new actions, triggers and commands!
 
+
+
 ### Step 2: Enable the test commands
 
 Whenever new commands are imported to streamerbot you will need to manually enable them.
+
 
 
 ### Step 3: Try creating a prediction & resolving it
@@ -41,6 +44,8 @@ Next, try to do !gambaoutput1 to resolve the prediction!
 
 If that all works, next I'll explain how to change the title, duration and outputs of the prediction.
 
+
+
 ### Step 4: Adjusting the prediction variables.
 
 The code is set up to easily allow you to duplicate the action in order to create multiple different predictions.
@@ -52,6 +57,8 @@ Feel free to:
 - Change the title (note: due to twitch restrictions it can only be 45 characters long)
 - Change the duration to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
+
+
 
 ## Tips and Tricks
 
