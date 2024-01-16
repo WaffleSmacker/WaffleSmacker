@@ -4,8 +4,6 @@ Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker) Make sure to lea
 ![Waffle_Logo](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/47f02801-7a5d-4c9f-a9b7-04bb6d9bd968)
 <br>
 
-![download](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/620015c4-876d-402f-b3c4-f4658808a4ff)
-
 
 ## Introduction
 
