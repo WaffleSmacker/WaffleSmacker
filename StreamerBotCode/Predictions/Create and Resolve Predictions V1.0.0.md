@@ -51,10 +51,10 @@ Go to commands
 
 Go to the new commands, right click each one and enable them.
 
-Before:
+Before:<br>
 ![Enable Commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/2996e169-1798-4c93-ba58-226f06e9bffc)
 
-After:
+After:<br>
 ![Enabled commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/02b189c8-3e50-49ae-8bcb-4eb415ac3e8e)
 
 
@@ -65,11 +65,11 @@ After:
 
 Use the "!TestPredictionStart" to simply set up a new prediction.
 
-If everything was set up correctly you should notice in OBS that a prediction was created.
+If everything was set up correctly you should notice in OBS that a prediction was created.<br>
 ![Prediction Created](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6c538184-38ee-4939-87a3-7dd2333aa2bf)
 
 
-Next, try to do !PredictionOutcome1 to resolve the prediction!
+Next, try to do !PredictionOutcome1 to resolve the prediction!<br>
 ![Prediction Resolved](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/3b24ba6e-66fb-48bf-890e-dcd094ed4fe1)
 
 
@@ -85,7 +85,7 @@ The code is set up to easily allow you to duplicate the action in order to creat
 If you want to change the title, duration and outputs, select the action and then expand the grouped folder.
 
 You will see that there are 4 args being set up.
-
+<br>
 ![Edit Prediction Settings](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/fceca46d-4c77-40a8-a217-2cb76db8ea2c)
 
 
@@ -93,7 +93,7 @@ Feel free to:
 - Change the title (note: due to twitch restrictions it can only be 45 characters long)
 - Change the duration to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
-
+<br>
 ![Edit Prediction Settings changed](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6f0b1720-9f5e-4d7c-a3af-a26babaa77e9)
 
 
