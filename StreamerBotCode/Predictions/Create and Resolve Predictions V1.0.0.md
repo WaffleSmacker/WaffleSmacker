@@ -26,7 +26,7 @@ By the end of this page you should be able to do so!
 ### Step 1: Import the code to Streamerbot
 
 Open up streamer.bot and click the import button.
-
+<br>
 ![Import Button](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/e7fb44a5-a6b9-4fff-a402-89cdd215bdcd)
 
 Copy the text below and paste it into the import string section.
@@ -36,7 +36,7 @@ U0JBRR+LCAAAAAAABADtXGtv20iy/X6B/Q8cf9m7uNNGd5NNsgdYLCwnluUkTmz5qfFg0C9KjChSS1KW
 ```
 
 Click OK to import the new actions, triggers and commands!
-
+<br>
 ![Import Actions](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/4cb48fbf-4bc2-457a-bc62-d75bef0d5d19)
 
 <br><br><br><br>
@@ -46,7 +46,7 @@ Click OK to import the new actions, triggers and commands!
 
 Whenever new commands are imported to streamerbot you will need to manually enable them.
 
-Go to commands
+Go to commands<br>
 ![Commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/c5c15d2d-2dc0-4f4b-974c-259756596358)
 
 Go to the new commands, right click each one and enable them.
