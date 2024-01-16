@@ -94,7 +94,9 @@ Feel free to:
 - Change the duration to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
 <br>
-![Edit Prediction Settings changed](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6f0b1720-9f5e-4d7c-a3af-a26babaa77e9)
+
+![Edit Prediction Settings changed](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/d1338974-7353-4580-99a3-d7b7eaefbf39)
+
 
 
 <br><br><br><br>
