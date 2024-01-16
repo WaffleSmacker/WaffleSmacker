@@ -23,6 +23,8 @@ By the end of this page you should be able to do so!
 
 Open up streamer.bot and click the import button.
 
+![Import Button](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/e7fb44a5-a6b9-4fff-a402-89cdd215bdcd)
+
 Copy the text below and paste it into the import section.
 
 ```
@@ -30,6 +32,9 @@ U0JBRR+LCAAAAAAABADtXGtv20iy/X6B/Q8cf9m7uNNGd5NNsgdYLCwnluUkTmz5qfFg0C9KjChSS1KW
 ```
 
 Click OK to import the new actions, triggers and commands!
+
+![Import Actions](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/4cb48fbf-4bc2-457a-bc62-d75bef0d5d19)
+
 <br><br><br><br>
 
 
