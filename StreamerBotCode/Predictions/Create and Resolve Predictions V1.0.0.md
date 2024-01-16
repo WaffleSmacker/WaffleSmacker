@@ -16,7 +16,7 @@ By the end of this page you should be able to do so!
 
 ## Step-by-Step Guide
 
-<br><br>
+<br>
 
 ### Step 1: Import the code to Streamerbot
 
