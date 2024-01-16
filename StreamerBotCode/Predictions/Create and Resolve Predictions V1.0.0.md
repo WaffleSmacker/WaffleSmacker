@@ -1,8 +1,11 @@
 # How to Create Predictions on Your Stream Using StreamerBot
+Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker)
+<br>
+![Waffle_Logo](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/47f02801-7a5d-4c9f-a9b7-04bb6d9bd968)
+Make sure to leave a follow for more future tips!<br>
+
 ![download](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/620015c4-876d-402f-b3c4-f4658808a4ff)
 
-[WaffleSmacker](https://www.twitch.tv/wafflesmacker)
-![Waffle_Logo](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/96c41fae-ed54-41fa-a1ce-36919214f459)
 
 ## Introduction
 
