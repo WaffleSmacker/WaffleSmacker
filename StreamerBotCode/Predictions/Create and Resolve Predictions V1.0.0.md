@@ -41,16 +41,34 @@ Click OK to import the new actions, triggers and commands!
 ### Step 2: Enable the test commands
 
 Whenever new commands are imported to streamerbot you will need to manually enable them.
+
+Go to commands
+![Commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/c5c15d2d-2dc0-4f4b-974c-259756596358)
+
+Go to the new commands, right click each one and enable them.
+
+Before:
+![Enable Commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/2996e169-1798-4c93-ba58-226f06e9bffc)
+
+After:
+![Enabled commands](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/02b189c8-3e50-49ae-8bcb-4eb415ac3e8e)
+
+
 <br><br><br><br>
 
 
 ### Step 3: Try creating a prediction & resolving it
 
-Use the !commmand to simply set up a new prediction.
+Use the "!TestPredictionStart" to simply set up a new prediction.
 
 If everything was set up correctly you should notice in OBS that a prediction was created.
+![Prediction Created](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6c538184-38ee-4939-87a3-7dd2333aa2bf)
 
-Next, try to do !gambaoutput1 to resolve the prediction!
+
+Next, try to do !PredictionOutcome1 to resolve the prediction!
+![Prediction Resolved](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/3b24ba6e-66fb-48bf-890e-dcd094ed4fe1)
+
+
 
 If that all works, next I'll explain how to change the title, duration and outputs of the prediction.
 
@@ -64,10 +82,16 @@ If you want to change the title, duration and outputs, select the action and the
 
 You will see that there are 4 args being set up.
 
+![Edit Prediction Settings](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/fceca46d-4c77-40a8-a217-2cb76db8ea2c)
+
+
 Feel free to:
 - Change the title (note: due to twitch restrictions it can only be 45 characters long)
 - Change the duration to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
+
+![Edit Prediction Settings changed](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6f0b1720-9f5e-4d7c-a3af-a26babaa77e9)
+
 
 <br><br><br><br>
 
@@ -77,6 +101,8 @@ Feel free to:
 Now that you have predictions set up, why not get fancy?
 
 Instead of just using chat commands, you can set up different types of filters!
+
+You can also change the commands to be easier/more relevant for your stream.
 
 - **Voice Activated Commands**:
 - Go to the voice command tab on streamerbot and set up a new voice command.
