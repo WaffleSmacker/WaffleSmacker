@@ -16,6 +16,8 @@ By the end of this page you should be able to do so!
 
 ## Step-by-Step Guide
 
+<br><br>
+
 ### Step 1: Import the code to Streamerbot
 
 Open up streamer.bot and click the import button.
@@ -27,13 +29,13 @@ U0JBRR+LCAAAAAAABADtXGtv20iy/X6B/Q8cf9m7uNNGd5NNsgdYLCwnluUkTmz5qfFg0C9KjChSS1KW
 ```
 
 Click OK to import the new actions, triggers and commands!
-<br><br>
+<br><br><br><br>
 
 
 ### Step 2: Enable the test commands
 
 Whenever new commands are imported to streamerbot you will need to manually enable them.
-<br><br>
+<br><br><br><br>
 
 
 ### Step 3: Try creating a prediction & resolving it
@@ -44,7 +46,9 @@ If everything was set up correctly you should notice in OBS that a prediction wa
 
 Next, try to do !gambaoutput1 to resolve the prediction!
 
-If that all works, next I'll explain how to change the title, duration and outputs of the prediction.<br><br>
+If that all works, next I'll explain how to change the title, duration and outputs of the prediction.
+
+<br><br><br><br>
 
 
 ### Step 4: Adjusting the prediction variables.
@@ -59,7 +63,7 @@ Feel free to:
 - Change the duration to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
 
-<br><br>
+<br><br><br><br>
 
 
 ## Tips and Tricks
