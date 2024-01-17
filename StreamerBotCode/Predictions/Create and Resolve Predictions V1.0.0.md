@@ -37,7 +37,8 @@ U0JBRR+LCAAAAAAABADtXGtv20iy/X6B/Q8cf9m7uNNGd5NNsgdYLCwnluUkTmz5qfFg0C9KjChSS1KW
 <br><br>
 Click OK to import the new actions, triggers and commands!
 <br>
-![Import Actions](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/4cb48fbf-4bc2-457a-bc62-d75bef0d5d19)
+![Import Actions](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/411c00c1-e4a6-4600-bc98-45a70daf286a)
+
 
 <br><br>
 
