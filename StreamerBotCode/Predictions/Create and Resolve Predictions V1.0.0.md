@@ -28,7 +28,7 @@ By the end of this page you should be able to do so!
 Open up streamer.bot and click the import button.
 <br>
 ![Import Button](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/e7fb44a5-a6b9-4fff-a402-89cdd215bdcd)
-
+<br>
 :point_down::point_down::point_down:**Copy the text below and paste it into the import string section.** :point_down::point_down::point_down:
 
 ```
