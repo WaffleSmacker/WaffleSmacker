@@ -85,7 +85,9 @@ If that all works, next I'll explain how to change the title, duration and outpu
 The code is set up to easily allow you to duplicate the action in order to create multiple different predictions.
 If you want to change the title, duration and outputs, select the action and then expand the grouped folder.
 
-Click on the action "**Prediction - Sample [Duplicate this]**"
+Click on the action "**Prediction - Sample [Duplicate this]**" <br> 
+![Import Actions](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/400ede57-2cae-4775-bbee-34599ebcc24a)
+
 
 You will see that there are 4 args being set up. (Make sure to read the green comments!)
 <br><br>
