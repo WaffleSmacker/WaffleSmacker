@@ -85,17 +85,17 @@ The code is set up to easily allow you to duplicate the action in order to creat
 If you want to change the title, duration and outputs, select the action and then expand the grouped folder.
 
 You will see that there are 4 args being set up. (Make sure to read the green comments!)
-<br>
+<br><br>
 
-<br>
 ![Edit Prediction Settings](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/fceca46d-4c77-40a8-a217-2cb76db8ea2c)
 
 
 Feel free to:
-- Change the title (note: due to twitch restrictions it can only be 45 characters long)
-- Change the duration (in seconds) to as long as you need it (I recommend 2 minutes)
+- Change the title (note: due to twitch restrictions it can only be **45 characters long**)
+- Change the duration (**in seconds**) to as long as you need it
 - Change the outputs of the prediction
 <br>
+
 ![After changes](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/d1338974-7353-4580-99a3-d7b7eaefbf39)
 
 
@@ -112,7 +112,7 @@ Instead of just using chat commands, you can set up different types of filters!
 
 You can also change the commands to be easier/more relevant for your stream.
 
-- **Voice Activated Commands**:
+### Voice Activated Commands
 - Go to the voice command tab on streamerbot and set up a new voice command.
 - I suggest using something unique you won't say accidentally
 - ex. "start the silly gamba!"
