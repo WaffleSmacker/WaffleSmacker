@@ -28,7 +28,7 @@ By the end of this page you should be able to do so!
 Open up streamer.bot and click the import button.
 <br>
 ![Import Button](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/e7fb44a5-a6b9-4fff-a402-89cdd215bdcd)
-<br>
+<br><br>
 :point_down::point_down::point_down:**Copy the text below and paste it into the import string section.** :point_down::point_down::point_down:
 
 ```
@@ -63,13 +63,13 @@ After:<br>
 
 ### Step 3: Try creating a prediction & resolving it
 
-Use the "!TestPredictionStart" to simply set up a new prediction.
+Use the "**!TestPredictionStart**" to simply set up a new prediction.
 
 If everything was set up correctly you should notice in OBS that a prediction was created.<br>
 ![Prediction Created](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/6c538184-38ee-4939-87a3-7dd2333aa2bf)
 
 
-Next, try to do !PredictionOutcome1 to resolve the prediction!<br>
+Next, try to do "**!PredictionOutcome1**" to resolve the prediction!<br>
 ![Prediction Resolved](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/3b24ba6e-66fb-48bf-890e-dcd094ed4fe1)
 
 
@@ -84,18 +84,20 @@ If that all works, next I'll explain how to change the title, duration and outpu
 The code is set up to easily allow you to duplicate the action in order to create multiple different predictions.
 If you want to change the title, duration and outputs, select the action and then expand the grouped folder.
 
-You will see that there are 4 args being set up.
+You will see that there are 4 args being set up. (Make sure to read the green comments!)
+<br>
+
 <br>
 ![Edit Prediction Settings](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/fceca46d-4c77-40a8-a217-2cb76db8ea2c)
 
 
 Feel free to:
 - Change the title (note: due to twitch restrictions it can only be 45 characters long)
-- Change the duration to as long as you need it (I recommend 2 minutes)
+- Change the duration (in seconds) to as long as you need it (I recommend 2 minutes)
 - Change the outputs of the prediction
 <br>
+![After changes](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/d1338974-7353-4580-99a3-d7b7eaefbf39)
 
-![Edit Prediction Settings changed](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/d1338974-7353-4580-99a3-d7b7eaefbf39)
 
 
 
