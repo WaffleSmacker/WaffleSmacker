@@ -8,7 +8,7 @@ Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker) Make sure to lea
 ## Introduction
 
 :anguished: Have you ever been raided and were so caught up in something that you **forgot to shout them out?** <br>
-With the simple streamerbot set up below you'll **never miss a shout out again! ** :tada:
+With the simple streamerbot set up below you'll **never miss a shout out again!** :tada:
 <br><br>
 
 ## Prerequisites
