@@ -36,23 +36,10 @@ Click OK to import the new action and trigger!
 <br>
 
 
-<br><br>
+### Step 2: Raid the next time you stream and see if it works!
 
-
-### Step 2: Edit your Shoutout
-
-Click the "Raid" Action
-
-If you want to change the message you send in chat, double click "Twitch Message" and edit the text!<br>
-* %user% will automatically get the name of the raider.
-* %game% will get the last game the raider was playing.
-* %viewers% gets the # of viewers who raided
-![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/0a1b3f63-58cf-4742-8245-248a7b83cbc9)
-
-
-If you want to set up multiple different raid options depending on the # of raiders, you can adjust the Trigger.
-For example if we use these settings, it will only trigger if we get raids of 50 people or more: <br>
-![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/5fab30a4-a7b4-4cc8-86a7-370e9157e38e)
+As soon as you raid out, your stream should automatically end!
+Never need to worry about your camera/microphone being on again.
 
 
 <br><br>
