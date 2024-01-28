@@ -19,6 +19,7 @@ Your imagination is the limit (seriously).
 
 ## Step-by-Step Guide
 
+I recommend also checking out the [official streamerbot startup guide](https://docs.streamer.bot/get-started/introduction)
 <br>
 
 ### Download Streamerbot
@@ -72,3 +73,46 @@ Once you hit ok, you should see that streamerbot connects to OBS successfully by
 ![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/3b9b2fcd-dac8-4426-9852-5cf0dbf126a6)
 
 
+### Connect your Twitch Account
+
+Open Platforms -> Twitch -> Accounts
+
+Click the Login button to connect your twitch account.
+
+A window will open up to allow you to automatically connect your twitch account.
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/9fc4ba0e-acde-4d40-81ab-f0823937aebb)
+
+Once completed you should see your account successfully connected!
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/88155698-e86b-4f34-bd82-3c9398cccc60)
+
+
+### Final Test
+
+Let's test to make sure StreamerBot is connected to your OBS and Twitch!
+
+Copy the following string:
+```
+U0JBRR+LCAAAAAAABACNkz1v2zAQhvcC/Q+K5siQZNqysrlD27kp2qHIQJFHhwg/VH40NgL/95KSZUuWA2QRePce3yMfnt4+f0qS9B8Yy7VKH5LlfZfgstXG/Tqnyz4tueLSy0s+zRflokxPKjgccm8xCKHCEmLJT7AueXQGQmwa7frqUIC9e9YmlvzGjAl4lJi8gDnrl1OlxSJf5GeBgiWGt+4kbhMbzisgcbGT04nEL5BYb8Ln0jbhNiFaKSAOaFgZE1bicJdG02N/A4onN8AktrAh86fPJIPUyZzG7kuyXjUULbMlrlGGVlWdbaq6yjawWtcFQLPJ2XDybttfDz6CUV6IcR4UbgRET2c8TJQ9EZ7CV6Pld26dNodQxLCwk6qB94D6S7hzZD9pvjPat8OrcLWbiFi84oP94dUte4MV1XJLTtRnemBLfICq3C3VGb7bhfccs7zi2b85NjxiiIVvx/srtSfO8oKhKi+yDa5ZhjBCWVOgMqNNURK8alCDyvR6qzu0kU6Vl9fKu9xnTKI+lo+X4GnCcT43t+7qYO9GTzEe1rvZ+VsDDAJeuiVE+w5ycRsPQps14HWAUi1phtYFy3BThbBkYRRZU5OSzuxfge+eo2n4z95BV8yEYZiuJvkDVLmisI/dPo7zW2zWMX2ajp0QuLVAR/ognwyH+v7Pm1iE7VKGwZ4mHZenUe2sgs3xPwGIcEwoBQAA
+```
+
+Click on "Import" in StreamerBot.
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/75449e00-41ed-4895-9234-4b26832ed4d8)
+
+Paste the code in the text box:
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/f9795f87-968e-4998-9b79-ac154ba020db)
+
+You should now have a new Action in StreamerBot!
+
+Click it -> Right click "Test" in the Trigger window -> click Test trigger
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/3814da7e-f3a5-4363-8ce6-faa544f7f748)
+
+If the connection was set up correctly, you should see a message in your OBS!
+
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/f43e6ca6-0f80-4583-b277-59984d062077)
+
+Congratulations! You have now set up streamerbot!
