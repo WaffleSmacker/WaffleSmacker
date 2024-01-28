@@ -38,13 +38,13 @@ Once you are finished open streamerbot!
 Open OBS -> Click Tools -> WebSocket Server Settings.
 
 1. Make sure "Enable WebSocket Server" is enabled.
-2. Note to make sure the Server Port is "4455" and that "Enable Authentication" is unchecked.
-3. Hit Ok!
 
 ![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/213782aa-19b6-4f8f-92b6-1b1a11dc1cfa)
 <br><br>
+2. Note to make sure the Server Port is "4455" and that "Enable Authentication" is unchecked.
 ![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/5a8bf244-0c52-4de7-9d3e-4c293f2bcba2)
 <br><br>
+3. Hit Ok!
 ![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/c0426d28-d5d8-485e-9bb5-0c85943c8d63)
 
 ### Connect StreamerBot
