@@ -34,7 +34,8 @@ U0JBRR+LCAAAAAAABACdlE2P0zAQhu9I/AfT87pyE7tJuKBFApYLSBTBAe1h1p60Fo5THKfdarX/HTvp
 <br><br>
 Click OK to import the new action and trigger!
 <br>
-
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/19e0a352-97a1-4362-ad36-f358478021bd)
+<br><br>
 
 ### Step 2: Raid the next time you stream and see if it works!
 
