@@ -7,7 +7,8 @@ Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker) Make sure to lea
 
 ## Introduction
 
-:anguished: Have you ever raided out to another stream and completely forget to stop your stream? ** :tada:
+:anguished: Have you ever raided out to another stream and completely forget to stop your stream? <br>
+After you implement this simple action you will never have to worry about it again! :tada:
 <br><br>
 
 ## Prerequisites
@@ -41,6 +42,9 @@ Click OK to import the new action and trigger!
 
 As soon as you raid out, your stream should automatically end!
 Never need to worry about your camera/microphone being on again.
+You can see the action below:  It will trigger as soon as a raid is sent.
+<br>
+![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/f22265d8-44bc-4d5b-b2ea-6634b981be7e)
 
 
 <br><br>
