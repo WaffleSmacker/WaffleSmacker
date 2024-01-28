@@ -60,10 +60,10 @@ Open OBS -> Click Tools -> WebSocket Server Settings.
 ![image](https://github.com/WaffleSmacker/WaffleSmacker/assets/131427794/67e43c13-8737-44b0-940a-3599dea76154) <br><br>
 5. Make sure you are using OBS version 30 or higher.
 
-Name: Anything is fine
-Version: v5.x
-Host: 127.0.0.1
-Port: 4455  (should be the same as in OBS)
+Name: Anything is fine <br>
+Version: v5.x <br>
+Host: 127.0.0.1 <br>
+Port: 4455  (should be the same as in OBS) <br>
 
 Enable "Auto Connect on Startup" and "Recconect on Disconnect"<br>
 
