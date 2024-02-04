@@ -1,4 +1,4 @@
-# LabGambaTime
+# Lab Gamba Time
 Ironmon Tracker extension: For days where the lab doesn't end and your community wants gambas!
 
 
